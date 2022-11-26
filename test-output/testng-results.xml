@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-26T08:45:56 IST" name="Default suite" finished-at="2022-11-26T08:49:19 IST" duration-ms="203975">
+    <groups>
+    </groups>
+    <test started-at="2022-11-26T08:45:56 IST" name="Default test" finished-at="2022-11-26T08:49:19 IST" duration-ms="203975">
+      <class name="com.motherhood.base.baseclass">
+        <test-method signature="launchApp()[pri:0, instance:com.motherhood.base.baseclass@77f80c04]" started-at="2022-11-26T08:45:56 IST" name="launchApp" finished-at="2022-11-26T08:49:19 IST" duration-ms="203307" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method is-config="true" signature="closeapp()[pri:0, instance:com.motherhood.base.baseclass@77f80c04]" started-at="2022-11-26T08:49:19 IST" name="closeapp" finished-at="2022-11-26T08:49:19 IST" duration-ms="613" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeapp -->
+      </class> <!-- com.motherhood.base.baseclass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
